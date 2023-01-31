@@ -16,5 +16,7 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   integrations: [tailwind(), solidJs()],
   output: "server",
-  adapter: vercel()
+  adapter: vercel({
+    includeFiles: ['src/pages/index.json.js']
+  })
 });
