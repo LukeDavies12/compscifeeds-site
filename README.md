@@ -1,6 +1,20 @@
+- [CompSciFeeds](#compscifeeds)
+  - [Project Description](#project-description)
+  - [Resources](#resources)
+  - [Commands](#commands)
+  - [Links to Astro Docs and Discord server](#links-to-astro-docs-and-discord-server)
+
+
 # CompSciFeeds
 
+## Project Description
+
 A collection of RSS feeds for Software professionals and Computer Science students. Made with Astro, Solid js, and Tailwind css.
+
+## Resources
+
+- https://github.com/jherr/astro-2-video-code
+- https://docs.astro.build/en/getting-started/
 
 ## Commands
 
